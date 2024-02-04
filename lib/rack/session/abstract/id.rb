@@ -6,7 +6,7 @@
 
 require 'time'
 require 'securerandom'
-require 'digest/sha2'
+# require 'digest/sha2'
 
 require 'rack/constants'
 require 'rack/request'

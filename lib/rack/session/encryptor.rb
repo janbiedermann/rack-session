@@ -6,7 +6,7 @@
 
 require 'base64'
 require 'json'
-require 'openssl'
+# require 'openssl'
 require 'securerandom'
 
 require 'rack/utils'

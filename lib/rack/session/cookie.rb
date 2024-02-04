@@ -5,8 +5,8 @@
 # Copyright, 2022, by Jeremy Evans.
 # Copyright, 2022, by Jon Dufresne.
 
-require 'openssl'
-require 'zlib'
+# require 'openssl'
+# require 'zlib'
 require 'json'
 require 'base64'
 require 'delegate'
